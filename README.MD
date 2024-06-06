@@ -20,11 +20,8 @@ Design: [Labirintas](https://dribbble.com/shots/2537184-Day-008-404-Page-Daily-U
 ## 🎯 Project features/goals
 
 -   Github pages
--   icons (FontAwesome, ReactIcons)
--   CSS files
--   CSS flex
--   CSS grid
--   SVG images
+-   basic HTML elements/tags
+-   basic inline-CSS rules
 -   **NO** responsive design
 
 ## 🧰 Getting Started
